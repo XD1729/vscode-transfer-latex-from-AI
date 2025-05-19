@@ -1,0 +1,147 @@
+[33mcommit 833cf821a6aec0129c9b9c62f373fa2bc415fe6f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: XD1729 <xiedong1117@mails.jlu.edu.cn>
+Date:   Mon May 19 12:14:58 2025 +0100
+
+    将obsidian插件修改为vscode插件
+
+[33mcommit f68d83ad31f0fd26d53bd7897ebd3ac3eb0f409d[m
+Author: XD1729 <xiedong1117@mails.jlu.edu.cn>
+Date:   Mon May 19 12:14:40 2025 +0100
+
+    修改readme
+
+[33mcommit 4ae70733d602445656fabf65e12c674f8e3d862d[m[33m ([m[1;31mupstream/master[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Fri Dec 6 10:36:14 2024 +0800
+
+    优化readme文档描述
+
+[33mcommit 5a443f1304f6e244e75cccbaa810b7514026194e[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Fri Dec 6 10:31:17 2024 +0800
+
+    更新readme社区商场显示
+
+[33mcommit 2ee6ecac18070ef06ec7e9b472335359974918ba[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Tue Nov 26 14:39:02 2024 +0800
+
+    调整readme
+
+[33mcommit 8beddd01a3b88442879d0dbf7b565ef950d689a1[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Tue Nov 26 14:37:57 2024 +0800
+
+    增加使用前软件设置提醒
+
+[33mcommit 48e117c7d5bbbc6a1ba0ab3441e0fa2006c8c21e[m
+Merge: a32b25c 4709c71
+Author: xixia123 <2323167016@qq.com>
+Date:   Tue Nov 26 14:30:29 2024 +0800
+
+    Merge branch 'master' of https://github.com/xixia123/obsidian-transfer-latex-from-gpt
+
+[33mcommit a32b25c49eb3b925886355e09582a25a2853c207[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Tue Nov 26 14:29:42 2024 +0800
+
+    上传修改编辑器设置的图片
+
+[33mcommit 4709c71f6e78aa348dde5bec7b0f9295b2bffe00[m
+Merge: 2ff6609 7880e05
+Author: xixia123 <51846887+xixia123@users.noreply.github.com>
+Date:   Mon Nov 25 14:34:25 2024 +0800
+
+    Merge pull request #1 from primefork/patch-1
+    
+    Add icon in command
+
+[33mcommit 7880e055226e079920c7dbef1f80707511ac3268[m
+Author: Prime <160033214+probabilityzero@users.noreply.github.com>
+Date:   Fri Nov 15 17:56:17 2024 +0600
+
+    Update main.ts
+
+[33mcommit 2ff6609766e63c8c2a8ef3aa26ba57568df55396[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Tue Nov 5 15:19:05 2024 +0800
+
+    按照review要求修改
+
+[33mcommit 7b4f0822072255dbefa5a0d6d783cdf81c87f160[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Fri Oct 18 14:01:27 2024 +0800
+
+    添加MIT许可
+
+[33mcommit ae7d1513ca98fb86da2cb1d8603b2a11e6d59437[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Fri Oct 18 13:56:08 2024 +0800
+
+    修改完成readme
+
+[33mcommit 20d56980459dcf0586f06418d2c8829bb3c2b0f1[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Fri Oct 18 13:54:27 2024 +0800
+
+    测试修改图片
+
+[33mcommit 34e8939b4207a3a93ff4ff3edcb172edcd3e6cdb[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Fri Oct 18 13:47:25 2024 +0800
+
+    更新Usage
+
+[33mcommit d20b101239f79d097c87771ccd3a90685b82ef0e[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Fri Oct 18 11:17:11 2024 +0800
+
+    修改符合PR要求
+
+[33mcommit 3ef87d28e6516d72e02cd23a022ae89288520685[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Fri Oct 18 11:14:18 2024 +0800
+
+    修改id
+
+[33mcommit 63c26dab45f1eff817f6ef638be83621e03b7411[m[33m ([m[1;33mtag: 1.0.1[m[33m)[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Thu Oct 17 15:39:07 2024 +0800
+
+    更新GitHub项目地址
+
+[33mcommit b1a3329a136a838f2e267eaaa45c40cf0c4f5a6b[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Thu Oct 17 15:37:49 2024 +0800
+
+    更新readme
+
+[33mcommit 7a71003ad808476819cde71f7ed1661991e2a912[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Thu Oct 17 15:35:52 2024 +0800
+
+    更新版本号和readme
+
+[33mcommit 008632cb69053b64a8c38c5329e9920ea05386ac[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Thu Oct 17 15:09:30 2024 +0800
+
+    修改workflows
+
+[33mcommit 4521fbd26d12c5a0773adbdcc281d635f69f2635[m[33m ([m[1;33mtag: 1.0.0[m[33m)[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Thu Oct 17 14:42:57 2024 +0800
+
+    提交插件功能代码
+
+[33mcommit 61e4cc22763ecce9c7f95962b51a71faf8d63e1d[m
+Author: xixia123 <2323167016@qq.com>
+Date:   Thu Oct 17 14:42:36 2024 +0800
+
+    Add release workflow
+
+[33mcommit 58fc4a71dd1d73f01acaf68a4374dddde92a5e88[m
+Author: xixia123 <51846887+xixia123@users.noreply.github.com>
+Date:   Thu Oct 17 11:56:45 2024 +0800
+
+    Initial commit
